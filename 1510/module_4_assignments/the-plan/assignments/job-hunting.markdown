@@ -1,11 +1,25 @@
 # The 'Job Hunting' Assignment
 
 ## List 5 companies you might want to apply for:
-  - 2 companies you think you'd like to work for
-  - 2 companies you don't really want to work for but that have a job posting somewhere you'd like to live
-  - 1 dream company (BaseCamp, Funny or Die, Github... somewhere it's hard to get hired but wouldn't that be cool, eh?)
 
-Don't say which is which though - just list 5.
+### IFTTT - https://ifttt.com/recipes
+* Connections: N/A
+* GitHub: https://github.com/IFTTT/
+  - OpenSource: 
+    1. https://github.com/IFTTT/RazzleDazzle
+    2. https://github.com/IFTTT/cadvisor
+    3. https://github.com/IFTTT/polo
+    4. https://github.com/IFTTT/dash
+    
+* TechStack: Ruby API, Javascript Front-End, Docker
+
+### Echonest - http://the.echonest.com/
+
+### IDEO - https://www.ideo.com/ 
+
+### Walmart - http://www.walmart.com/
+
+### Affirm - https://www.affirm.com/
 
 ## For each company, answer the following questions:
 
