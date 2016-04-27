@@ -68,6 +68,43 @@
   - api work all day every day could become cumbersome.
   - Some people have had negative experiences interviewing with them
 
+### Affirm - https://www.affirm.com/
+  
+* Connections: 
+  - Nupur Kantamneni, through Sekhar
+  - Jenna Newgard, through Heidi Hildabrand
+  - Kirsten Read, through Jorge
+  - Steve McGarry, through Jorge and Jeff
+  
+* GitHub: https://github.com/echonest/
+  - OpenSource: 
+    1. https://github.com/Affirm/moto
+    2. As you can see they are not huge in open source.
+
+* TechStack: AJAX, Javascript, HTML5, CSS, Python, Flask, iOS
+  - Worked With: AJAX, Javascript, HTML5
+  - Have not worked with but am familiar with: Python, iOS
+  - Dont know anything:  Flask
+
+* Events:
+  - It seemed hard to find events, It may be worthwhile to visit local Javascript or Python meetups. 
+  
+* Interview Questions:
+  - First the interviewer showed some python package in github and asked me to make changes to the package based on their project requirements.
+  - Designing and architecture based on networking restrictions.
+  - Conceptual algorithmic questions  
+  - Some mundane problem of predicting gender, based on a random set of features.  
+
+  
+* pros:
+  - Great employee satisfaction (5.0 on glassdoor!)
+  - Interesting problems, anything finance interesets me.
+  - In San Francisco, where im trying to go!
+  - Works with Python.
+
+* cons:
+  - This one is hard to come up with negatives for. Great size (mid-small), great employee satisfaction.
+
 ### IDEO - https://www.ideo.com/ 
  
 * Connections: 
@@ -147,66 +184,3 @@
   - Its Walmart.
 
 
-### Affirm - https://www.affirm.com/
-  
-* Connections: 
-  - Nupur Kantamneni, through Sekhar
-  - Jenna Newgard, through Heidi Hildabrand
-  - Kirsten Read, through Jorge
-  - Steve McGarry, through Jorge and Jeff
-  
-* GitHub: https://github.com/echonest/
-  - OpenSource: 
-    1. https://github.com/Affirm/moto
-    2. As you can see they are not huge in open source.
-
-* TechStack: AJAX, Javascript, HTML5, CSS, Python, Flask, iOS
-  - Worked With: AJAX, Javascript, HTML5
-  - Have not worked with but am familiar with: Python, iOS
-  - Dont know anything:  Flask
-
-* Events:
-  - It seemed hard to find events, It may be worthwhile to visit local Javascript or Python meetups. 
-  
-* Interview Questions:
-  - First the interviewer showed some python package in github and asked me to make changes to the package based on their project requirements.
-  - Designing and architecture based on networking restrictions.
-  - Conceptual algorithmic questions  
-
-  
-* pros:
-  - Company is not going anywhere.
-  - Lots to learn, familiar with basically 0% of their tech.
-  - Interesting problems, I can only imagine the amount of data they must sift through!
-
-* cons:
-  - Its Walmart.
-  - Reviewers on Glassdoor talk about 'pecking order' and 'coorperate' alot.
-  - Its Walmart.
-
-## For each company, answer the following questions:
-
-- List any Turing/gSchool/Hungry Academy grads that work there
-- List anyone else you know that works there
-- Link to the company's Github page(s)
-  - List any open source projects actively maintained (have commits in the last 6 months)
-- List the tech stack of the company
-  - You can find the tech stack in a few different ways
-    - Find their current and past job postings
-    - Look around their Github page
-    - Read through their blog posts
-    - Look at the LinkedIn profiles or Twitter pages or Meetup Profiles of current employees
-- Divide the tech stack into:
-  - tech you've worked with
-  - tech you're familiar with
-  - tech you know almost nothing about
-- List any meetups and events they have recently or will soon sponsor
-  - You can figure this out for searching for the company on eventbrite, meetup.com, reading through their blog and their twitter feed, etc.
-- List any technical interview information you can find about the company
-  - Find the company on GlassDoor
-  - Try googling 'Company Name Technical Interview Questions'
-- List 'pros' and 'cons' of working for this Company
-  - e.g. Pros: They're in the green energy field / Cons: They have bad reviews on Glassdoor
-- What is your next step to pursue working at this company?
-
-Spend some time researching and reaching out to the companies you profiled above. Study up on some of technologies that you are fuzzy on in their tech stack. Work on your applications and submit as many as you feel appropriate. Feel free to document your experiences below:
