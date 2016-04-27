@@ -158,27 +158,22 @@
 * GitHub: https://github.com/echonest/
   - OpenSource: 
     1. https://github.com/Affirm/moto
-    2. https://github.com/walmartlabs/ALCE
-    3. https://github.com/walmartlabs/websocket
-    4. https://github.com/walmartlabs/system-viz
+    2. As you can see they are not huge in open source.
 
-* TechStack: Clojure (Horace should work their!), Javascript, Hadoop, Hive, Pig, Map Reduce, HBase, Cassandra, Couchbase, Kafka, Storm, Spark
-  - Worked With: Javascript
-  - Have not worked with but am familiar with: Hadoop, Cassandra, Kafka, Closure
-  - Dont know anything: Hive, Pig, Map Reduce, HBase, Couchbase, Storm, Spark
+* TechStack: AJAX, Javascript, HTML5, CSS, Python, Flask, iOS
+  - Worked With: AJAX, Javascript, HTML5
+  - Have not worked with but am familiar with: Python, iOS
+  - Dont know anything:  Flask
 
 * Events:
-  - DevPulseCon
-  - https://twitter.com/WalmartLabs <- place to go for events (there are a TON), none coming up.
-
+  - It seemed hard to find events, It may be worthwhile to visit local Javascript or Python meetups. 
+  
 * Interview Questions:
-  - what are jax-WS, Jax-RS services
-  - what is sonar code anaylaser
-  - multhreading scenario in web services and application server tomcat
-  - linked list reverse, find mid of linked list, string reverse recursively
-  - Spring MVC, Dependancy Injection. Was asked to explain it with the help of a use case scenario
-  - The glassdoor site is plugged full of them! https://www.glassdoor.com/Interview/Walmart-eCommerce-Interview-Questions-E29449.htm
+  - First the interviewer showed some python package in github and asked me to make changes to the package based on their project requirements.
+  - Designing and architecture based on networking restrictions.
+  - Conceptual algorithmic questions  
 
+  
 * pros:
   - Company is not going anywhere.
   - Lots to learn, familiar with basically 0% of their tech.
